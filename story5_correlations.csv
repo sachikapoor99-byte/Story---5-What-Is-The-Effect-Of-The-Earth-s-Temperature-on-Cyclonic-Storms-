@@ -1,0 +1,7 @@
+storm,measure,years,pearson_r,detrended_r
+hurricane,count,30,0.10271,0.19756
+hurricane,strong_share,30,-0.07262,0.08127
+typhoon,count,30,-0.16983,0.15983
+typhoon,strong_share,30,0.20429,0.13165
+tornado,count,30,0.10752,0.11008
+tornado,strong_share,30,0.20733,-0.16057
