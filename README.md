@@ -1,7 +1,7 @@
 # Story 5: Do warmer years bring more or stronger storms?
 Sachi Kapoor | DATA 608 | 1995–2024
 
-[View slides (PDF)](Story5_Presentation.pdf) · [PowerPoint with speaker notes](Story5_Presentation.pptx)
+[View slides (PDF)](Story5_Presentation.pdf) 
 
 ## Audience and storytelling framework
 Designed for a high-school earth science class. The three-act framework is explained on slide 2:
@@ -20,7 +20,6 @@ Intensity is represented by the share reaching a threshold, not an individual st
 - story5_analysis.py: processing, correlations and storm charts.
 - story5_annual_metrics.csv: 30 annual observations.
 - story5_correlations.csv: raw and detrended correlations.
-- Story5_Speaker_Notes.md: speaking script.
 - README.txt: sources and methods.
 
 Install pandas, numpy and matplotlib. Download the three raw input CSV files listed in README.txt, then run:
